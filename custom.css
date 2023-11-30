@@ -1,0 +1,12 @@
+:root,
+[data-bs-theme=light] {
+--bs-dark-rgb: 139, 69, 19;
+}
+
+/* 連結GoogleFonts雲端字體 */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@300&display=swap');
+
+/* 套用GoogleFonts雲端字體 */
+body {font-family: '微軟正黑體', 'Noto Sans TC', sans-serif;}html{font-size: 20px;}
+h2{font-size: 1.5rem;font-weight: 900;color: rgb(165, 42, 58);}
+.h2-custom-pink {font-size: 3rem;font-weight: 900;color: rgb(226, 192, 43);}
