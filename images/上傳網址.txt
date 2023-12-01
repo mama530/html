@@ -1,0 +1,3 @@
+	%SystemRoot%\explorer.exe /n,/e, ftp://trial-153953.url.tw@211.72.207.232
+
+留言板-- https://toolkit.url.com.tw/bbs/index.php?email=bbs@trial-153953.url.tw
